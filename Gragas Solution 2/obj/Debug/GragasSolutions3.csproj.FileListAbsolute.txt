@@ -1,0 +1,46 @@
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe.config
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.pdb
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\MySql.Data.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Buffers.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Memory.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\ZstdSharp.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.pdb
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\MySql.Data.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Buffers.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Memory.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions3.csproj.AssemblyReference.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaAdicionar.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaLogin.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.Properties.Resources.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaPrincipal.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaRegistro.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaRemover.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions3.csproj.GenerateResource.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions3.csproj.CoreCompileInputs.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSo.7ACE83B7.Up2Date
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.exe
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.pdb

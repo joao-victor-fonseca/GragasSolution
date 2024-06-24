@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|d:\\faculdade\\segundo semestre\\modelagem de software\\euzebio\\a3\\gragas solution 2\\gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|solutionrelative:gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|d:\\faculdade\\segundo semestre\\modelagem de software\\euzebio\\a3\\gragas solution 2\\gragas solution 2\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|solutionrelative:gragas solution 2\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions2.csproj|D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\gragas solution 2\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions2.csproj|solutionrelative:gragas solution 2\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|d:\\faculdade\\segundo semestre\\modelagem de software\\euzebio\\a3\\gragas solution 2\\gragas solution 2\\telaadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|solutionrelative:gragas solution 2\\telaadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions3.csproj|D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\gragas solution 2\\telaadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions3.csproj|solutionrelative:gragas solution 2\\telaadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|d:\\faculdade\\segundo semestre\\modelagem de software\\euzebio\\a3\\gragas solution 2\\gragas solution 2\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:3:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|solutionrelative:gragas solution 2\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|d:\\faculdade\\segundo semestre\\modelagem de software\\euzebio\\a3\\gragas solution 2\\gragas solution 2\\telaregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|solutionrelative:gragas solution 2\\telaregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions3.csproj|D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions3.csproj|solutionrelative:gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|d:\\faculdade\\segundo semestre\\modelagem de software\\euzebio\\a3\\gragas solution 2\\gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions.csproj|solutionrelative:gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions3.csproj|D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E330EF3F-CDF4-4C02-B783-F5DA0F4CB6FA}|Gragas Solution 2\\GragasSolutions3.csproj|solutionrelative:gragas solution 2\\telaremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "telaPrincipal.cs",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaPrincipal.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaPrincipal.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaPrincipal.cs",
+              "RelativeToolTip": "Gragas Solution 2\\telaPrincipal.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADgvzkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:31:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "telaRemover.cs",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaRemover.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs",
+              "RelativeToolTip": "Gragas Solution 2\\telaRemover.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwBIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:28:58.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "telaRemover.cs [Design]",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaRemover.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs [Design]",
+              "RelativeToolTip": "Gragas Solution 2\\telaRemover.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:28:54.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "telaAdicionar.cs [Design]",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaAdicionar.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaAdicionar.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaAdicionar.cs [Design]",
+              "RelativeToolTip": "Gragas Solution 2\\telaAdicionar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:39:55.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "telaRemover.cs [Design]",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaRemover.cs",
+              "ToolTip": "C:\\Users\\pedri\\source\\repos\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:56:17.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "telaRemover.cs",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaRemover.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRemover.cs",
+              "RelativeToolTip": "Gragas Solution 2\\telaRemover.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwBIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:36:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "telaPrincipal.cs",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaPrincipal.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaPrincipal.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaPrincipal.cs",
+              "RelativeToolTip": "Gragas Solution 2\\telaPrincipal.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADgvzkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:48:28.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "telaRegistro.cs [Design]",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRegistro.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaRegistro.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaRegistro.cs [Design]",
+              "RelativeToolTip": "Gragas Solution 2\\telaRegistro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:40:52.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "telaLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaLogin.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaLogin.cs",
+              "ToolTip": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaLogin.cs [Design]",
+              "RelativeToolTip": "Gragas Solution 2\\telaLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:32:41.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "telaAdicionar.cs [Design]",
+              "DocumentMoniker": "D:\\Faculdade\\Segundo semestre\\Modelagem de software\\Euzebio\\A3\\Gragas Solution 2\\Gragas Solution 2\\telaAdicionar.cs",
+              "RelativeDocumentMoniker": "Gragas Solution 2\\telaAdicionar.cs",
+              "ToolTip": "C:\\Users\\pedri\\source\\repos\\Gragas Solution 2\\Gragas Solution 2\\telaAdicionar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:05:08.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe.config
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.pdb
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.csproj.AssemblyReference.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.Properties.Resources.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.csproj.GenerateResource.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.csproj.CoreCompileInputs.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.exe
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.pdb
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaLogin.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaPrincipal.resources

@@ -1,0 +1,92 @@
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe.config
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.pdb
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\MySql.Data.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Buffers.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Memory.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\ZstdSharp.dll
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.pdb
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\MySql.Data.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Buffers.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Memory.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions.csproj.AssemblyReference.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaAdicionar.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaLogin.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.Properties.Resources.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaPrincipal.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaRegistro.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaRemover.resources
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions.csproj.GenerateResource.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions.csproj.CoreCompileInputs.cache
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSo.DC25EC9F.Up2Date
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.exe
+C:\Users\pedri\source\repos\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.pdb
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe.config
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.exe
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Gragas Solution 2.pdb
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Hash.xxHash.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\MySql.Data.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Buffers.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.IO.Pipelines.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Memory.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Numerics.Vectors.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\ZstdSharp.dll
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.pdb
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Google.Protobuf.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\K4os.Hash.xxHash.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\MySql.Data.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Buffers.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.IO.Pipelines.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Memory.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Numerics.Vectors.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions.csproj.AssemblyReference.cache
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaAdicionar.resources
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaLogin.resources
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.Properties.Resources.resources
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaPrincipal.resources
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaRegistro.resources
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas_Solution_2.telaRemover.resources
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions.csproj.GenerateResource.cache
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSolutions.csproj.CoreCompileInputs.cache
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\GragasSo.DC25EC9F.Up2Date
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.exe
+D:\Faculdade\Segundo semestre\Modelagem de software\Euzebio\A3\Gragas Solution 2\Gragas Solution 2\obj\Debug\Gragas Solution 2.pdb
