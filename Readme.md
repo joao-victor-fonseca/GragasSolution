@@ -42,5 +42,6 @@ cd GragasSolution
 
 ```
 
-<a name="license">📜 Licença</a>
+## 📋<a name="license">📜 Licença</a>
+
 Este projeto está licenciado sob a Licença MIT.
